@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 # init driver
 driver = webdriver.Chrome()
 
-# open the url
+# open the urlR
 driver.get('https://www.google.com/')
 
 search = driver.find_element(By.NAME, 'q')

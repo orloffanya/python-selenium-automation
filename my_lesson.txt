@@ -1,0 +1,2 @@
+("#ap_customer_name")
+$x("//div[@id='legalTextRow']/a[1]")
